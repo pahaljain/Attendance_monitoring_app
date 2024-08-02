@@ -1,6 +1,6 @@
 # React + Vite
 
-## App Link[https://attendance-monitoring-dafvh0sc5-pahaljains-projects.vercel.app/details/5]
+## App Link[https://attendance-monitoring-dafvh0sc5-pahaljains-projects.vercel.app/]
 
 ### Password - 0
 
